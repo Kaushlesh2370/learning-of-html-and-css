@@ -1,4 +1,4 @@
-# learning-of-html-and-css
+# Learning-of-HTML-and-CSS
 for bluelearn 7 days  challange
 
 This is my firs challange project which of 7 days which is given byBlue Learn Community and i am participating in it.
